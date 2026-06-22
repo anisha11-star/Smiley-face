@@ -23,5 +23,8 @@ This is a simple smiley face design created using HTML and CSS.
 - Understood selector specificity. 
 - How to upload a project on GitHub
 
+## Live Website Link
+ https://anisha11-star.github.io/Smiley-face/
+
 ## Author
 Anisha Kumari
