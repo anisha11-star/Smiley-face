@@ -14,7 +14,7 @@ This is a simple smiley face design created using HTML and CSS.
 - CSS
 
 ## Preview
-![Smiley Face Preview](smiley-preview.png)
+![Smiley Face Preview](smiley-face.png)
 
 ## What I Learned
 - How to structure an HTML page
